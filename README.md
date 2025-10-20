@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sebpo-asifulmamun&label=PROFILE+VISITED++&style=plastic&color=blue)
 ![](https://hit.yhype.me/github/profile?user_id=24929452)<br />
-[![GitHub followers](https://img.shields.io/github/followers/sebpo-asifulmamun?logo=GitHub&style=for-the-badge)][github]
+
 
 ### Languages and tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
